@@ -73,3 +73,10 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+
+# STUFF I add
+gem "devise"
+gem "omniauth"
+gem "omniauth-google-oauth2"
+gem "omniauth-rails_csrf_protection", "~> 1.0"
